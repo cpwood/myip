@@ -1,0 +1,22 @@
+{
+  "name": "myip",
+  "version": "1.0.0",
+  "description": "myip service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolmi/myip.git"
+  },
+  "author": "Miquel Ortega Tido",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wolmi/myip/issues"
+  },
+  "homepage": "https://github.com/wolmi/myip#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
